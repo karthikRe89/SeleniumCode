@@ -1,0 +1,6 @@
+com\qa\mottmac\pages\AdvisoryPage.class
+com\qa\mottmac\pages\ContactPage.class
+com\qa\mottmac\pages\DigitalPage.class
+com\qa\mottmac\pages\Page.class
+com\qa\mottmac\pages\BasePage.class
+com\qa\mottmac\pages\HomePage.class
